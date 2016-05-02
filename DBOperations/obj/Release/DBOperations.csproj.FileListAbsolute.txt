@@ -1,0 +1,4 @@
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\DBOperations\bin\Release\DBOperations.dll
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\DBOperations\bin\Release\DBOperations.pdb
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\DBOperations\obj\Release\DBOperations.dll
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\DBOperations\obj\Release\DBOperations.pdb

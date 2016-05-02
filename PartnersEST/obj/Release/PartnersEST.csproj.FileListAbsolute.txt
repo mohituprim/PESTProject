@@ -1,0 +1,13 @@
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\PartnersEST\bin\Release\PartnersEST.exe.config
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\PartnersEST\bin\Release\PartnersEST.exe
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\PartnersEST\bin\Release\PartnersEST.pdb
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\PartnersEST\bin\Release\Lib_EDP.dll
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\PartnersEST\bin\Release\PESTDLL.dll
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\PartnersEST\bin\Release\DBOperations.dll
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\PartnersEST\bin\Release\Interop.JCFSDK4.dll
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\PartnersEST\bin\Release\Lib_EDP.pdb
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\PartnersEST\bin\Release\PESTDLL.pdb
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\PartnersEST\bin\Release\DBOperations.pdb
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\PartnersEST\obj\Release\PartnersEST.csprojResolveAssemblyReference.cache
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\PartnersEST\obj\Release\PartnersEST.exe
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\PartnersEST\obj\Release\PartnersEST.pdb

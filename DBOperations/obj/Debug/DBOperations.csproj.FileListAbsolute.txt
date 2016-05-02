@@ -1,0 +1,15 @@
+C:\Users\blemaitre\Documents\Visual Studio 2012\Projects\Mohit\DBOperations\bin\Debug\DBOperations.dll
+C:\Users\blemaitre\Documents\Visual Studio 2012\Projects\Mohit\DBOperations\bin\Debug\DBOperations.pdb
+C:\Users\blemaitre\Documents\Visual Studio 2012\Projects\Mohit\DBOperations\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+C:\Users\blemaitre\Documents\Visual Studio 2012\Projects\Mohit\DBOperations\obj\Debug\DBOperations.dll
+C:\Users\blemaitre\Documents\Visual Studio 2012\Projects\Mohit\DBOperations\obj\Debug\DBOperations.pdb
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\DBOperations\bin\Debug\DBOperations.dll
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\DBOperations\bin\Debug\DBOperations.pdb
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\DBOperations\obj\Debug\DBOperations.csprojResolveAssemblyReference.cache
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\DBOperations\obj\Debug\DBOperations.dll
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\DBOperations\obj\Debug\DBOperations.pdb
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\DBOperations\bin\Debug\DBOperations.dll
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\DBOperations\bin\Debug\DBOperations.pdb
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\DBOperations\obj\Debug\DBOperations.csprojResolveAssemblyReference.cache
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\DBOperations\obj\Debug\DBOperations.dll
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\DBOperations\obj\Debug\DBOperations.pdb

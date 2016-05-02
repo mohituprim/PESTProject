@@ -1,0 +1,18 @@
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\Lib_EDP\bin\Release\Lib_EDP.dll
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\Lib_EDP\bin\Release\Lib_EDP.pdb
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\Lib_EDP\bin\Release\Interop.JCFSDK4.dll
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\Lib_EDP\obj\Release\Lib_EDP.csprojResolveAssemblyReference.cache
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\Lib_EDP\obj\Release\Interop.JCFSDK4.dll
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\Lib_EDP\obj\Release\Lib_EDP.csproj.ResolveComReference.cache
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\Lib_EDP\obj\Release\Lib_EDP.dll
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\Lib_EDP\obj\Release\Lib_EDP.pdb
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\Lib_EDP\bin\Release\Lib_EDP.dll
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\Lib_EDP\bin\Release\Lib_EDP.pdb
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\Lib_EDP\bin\Release\DBOperations.dll
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\Lib_EDP\bin\Release\DBOperations.pdb
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\Lib_EDP\bin\Release\Interop.JCFSDK4.dll
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\Lib_EDP\obj\Release\Lib_EDP.csprojResolveAssemblyReference.cache
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\Lib_EDP\obj\Release\Interop.JCFSDK4.dll
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\Lib_EDP\obj\Release\Lib_EDP.csproj.ResolveComReference.cache
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\Lib_EDP\obj\Release\Lib_EDP.dll
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\Lib_EDP\obj\Release\Lib_EDP.pdb

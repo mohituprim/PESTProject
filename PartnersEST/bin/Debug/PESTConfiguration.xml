@@ -1,0 +1,8 @@
+﻿<?xml version='1.0' encoding='utf-8' ?>
+<start>
+  <File>
+    <SourceFolder>C:\Users\mokumar\Desktop\a_appli\Kepler\FactSetPartners_Client</SourceFolder>
+    <Destination>C:\a_appli\</Destination>
+    <LocalDBServerName>MOKUMARPC\SQLEXPRESS</LocalDBServerName>
+  </File>
+</start>

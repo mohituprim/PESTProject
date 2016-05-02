@@ -1,0 +1,25 @@
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\Lib_EDP\Lib_EDP\bin\Debug\Lib_EDP.dll
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\Lib_EDP\Lib_EDP\bin\Debug\Lib_EDP.pdb
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\Lib_EDP\Lib_EDP\obj\Debug\Lib_EDP.csprojResolveAssemblyReference.cache
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\Lib_EDP\Lib_EDP\obj\Debug\Lib_EDP.dll
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\Lib_EDP\Lib_EDP\obj\Debug\Lib_EDP.pdb
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\Lib_EDP\bin\Debug\Lib_EDP.dll
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\Lib_EDP\bin\Debug\Lib_EDP.pdb
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\Lib_EDP\obj\Debug\Lib_EDP.dll
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\Lib_EDP\obj\Debug\Lib_EDP.pdb
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\Lib_EDP\obj\Debug\Lib_EDP.csprojResolveAssemblyReference.cache
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\Lib_EDP\obj\Debug\Interop.JCFSDK4.dll
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\Lib_EDP\obj\Debug\Lib_EDP.csproj.ResolveComReference.cache
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\Lib_EDP\bin\Debug\Interop.JCFSDK4.dll
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\Lib_EDP\bin\Debug\DBOperations.dll
+C:\Users\mokumar\Documents\Visual Studio 2012\Projects\Lib_EDP\bin\Debug\DBOperations.pdb
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\Lib_EDP\bin\Debug\Lib_EDP.dll
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\Lib_EDP\bin\Debug\Lib_EDP.pdb
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\Lib_EDP\bin\Debug\DBOperations.dll
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\Lib_EDP\bin\Debug\DBOperations.pdb
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\Lib_EDP\bin\Debug\Interop.JCFSDK4.dll
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\Lib_EDP\obj\Debug\Lib_EDP.csprojResolveAssemblyReference.cache
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\Lib_EDP\obj\Debug\Interop.JCFSDK4.dll
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\Lib_EDP\obj\Debug\Lib_EDP.csproj.ResolveComReference.cache
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\Lib_EDP\obj\Debug\Lib_EDP.dll
+C:\Users\mokumar\Desktop\a_source\PartnersEnvironmentSetupProject\Lib_EDP\obj\Debug\Lib_EDP.pdb
